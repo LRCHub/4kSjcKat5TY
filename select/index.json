@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "夜想曲",
+  "base_artist": "矢作萌夏",
+  "createdAt": "2026-03-02T01:19:37.700011Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜想曲",
+      "artist": "LUCKY TAPES",
+      "has_synced": true,
+      "path": "select/01_夜想曲_LUCKY_TAPES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "夜想曲",
+      "artist": "teto",
+      "has_synced": true,
+      "path": "select/02_夜想曲_teto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜想曲",
+      "artist": "アリス(CV. 真野あゆみ)",
+      "has_synced": true,
+      "path": "select/03_夜想曲_アリス(CV._真野あゆみ).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜想曲〜nocturne (album version)",
+      "artist": "中孝介",
+      "has_synced": false,
+      "path": "select/04_夜想曲〜nocturne_(album_version)_中孝介.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "야상곡(夜想曲)",
+      "artist": "김윤아",
+      "has_synced": true,
+      "path": "select/05_야상곡(夜想曲)_김윤아.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夜想曲(Instrumental)",
+      "artist": "アリス(CV.真野あゆみ)",
+      "has_synced": true,
+      "path": "select/06_夜想曲(Instrumental)_アリス(CV.真野あゆみ).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夜想曲",
+      "artist": "アリス(CV.真野あゆみ)",
+      "has_synced": true,
+      "path": "select/07_夜想曲_アリス(CV.真野あゆみ).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "야상곡 夜想曲",
+      "artist": "김윤아",
+      "has_synced": true,
+      "path": "select/08_야상곡_夜想曲_김윤아.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜想曲",
+      "artist": "矢作萌夏",
+      "has_synced": false,
+      "path": "select/pl_01_夜想曲_矢作萌夏.txt"
+    }
+  ]
+}
